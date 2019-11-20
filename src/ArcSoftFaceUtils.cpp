@@ -33,8 +33,8 @@
 //-----------------------------------------------------------------------
 // SDK APPID and SDKKey
 //-----------------------------------------------------------------------
-#define APPID "Eii53vmytpf6cZAbjpeFJtFYapM7DvvSPRBJiGo8L6dN"
-#define SDKKey "ByBe35STYrj2c8uT48CULeea6SCvaHkfd5nJ4yFX57GK"
+#define APPID "your appId"
+#define SDKKey "your akkKey"
 //----------------------------------------------------------------------
 // Safe memery manage
 //----------------------------------------------------------------------
