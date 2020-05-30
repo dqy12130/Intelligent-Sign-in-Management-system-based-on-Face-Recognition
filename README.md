@@ -6,4 +6,4 @@ This project named "Intelligent-Sign-in-Management-system-based-on-Face-Recognit
 编译后初次使用系统需要进行管理员登录，生成认证文件后方可使用签到机认证功能，签到以及管理员刷脸登录需要先进行签到机认证。系统支持活体检测，有效避免照片、视频、纸张的欺骗，支持RGB以及IR活体检测，IR活体检测需要摄像硬件支持。特征值默认大小为1032KB，存储在数据库中需以BLOB格式保存，切勿使用string类型。
 如您在使用以及开发过程中有更好的建议或反馈，您可联系我们:邮箱为：2650822367@qq.com 或 zxZhao1998@gmail.com。
                                              
-                                                    CopyRight by Qiyao Dai and ZixuanZhao
+                                                  CopyRight by Qiyao Dai & Zixuan Zhao (2020)
