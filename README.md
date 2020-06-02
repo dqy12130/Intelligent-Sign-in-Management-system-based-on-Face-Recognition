@@ -9,3 +9,6 @@ This project named "Intelligent-Sign-in-Management-system-based-on-Face-Recognit
 
                                              
                                       CopyRight by Qiyao Dai & Zixuan Zhao (2020)
+                                      
+                                            Group Members Of This Project
+                                       Qiyao Dai,Junkui Hu,Zixuan Zhao,Jiaxin Zhang,ShengSai Sun
