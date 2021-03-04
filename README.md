@@ -8,7 +8,7 @@ This project named "Intelligent-Sign-in-Management-system-based-on-Face-Recognit
 如您在使用以及开发过程中有更好的建议或反馈，您可联系我们，邮箱为：2650822367@qq.com 
 
                                              
-                                      CopyRight by Qiyao Dai (2020)
+                                                   CopyRight by Qiyao Dai (2020)
                                       
                                                    Group Members Of This Project
                                        Qiyao Dai,Junkui Hu,Zixuan Zhao,Jiaxin Zhang,ShengSai Sun
