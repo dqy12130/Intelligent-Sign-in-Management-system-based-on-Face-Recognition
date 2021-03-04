@@ -1,5 +1,5 @@
 # Intelligent-Sign-In-Management-System-Based-On-Face-Recognition
-              基于人脸识别的实践教学管理平台
+#             基于人脸识别的实践教学管理平台
 This project named "Intelligent-Sign-in-Management-system-based-on-Face-Recognition",its from "National Innovation and Entrepreneurship Training Program for College Students(201912746003)"。
 国家级大学生创新创业训练计划项目  基于人脸识别的实践教学管理平台（201912746003）
 项目开发环境为 Qt 5.0以上编译器，依赖OpenCV3.0以上库，虹软SDK库。
